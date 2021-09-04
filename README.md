@@ -1,5 +1,5 @@
 Trading Strategy:
-- buys market open momentum
+- Buys market open momentum
 
 General Action Taken:
 - Console based ticker input
