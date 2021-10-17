@@ -1,7 +1,7 @@
 Interactive Brokers Python Trading Bot
 
 # Trading Strategy
-- Buys market open momentum
+- Buys opening market momentum
 
 # General Actions Taken
 - Console based ticker input
